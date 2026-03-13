@@ -33,7 +33,7 @@ Bu projede m = 1024 seçildiği için teorik hata payı **%3.25**'tir.
 
 ---
 
-### Sunum Soruları ve Cevapları
+###  Sorular ve Cevaplar
 -   **HLL Nedir?** Büyük veride çok az bellek harcayarak benzersiz öğe sayısını tahmin eden olasılıksal bir yapıdır.
 -   **Hangi IDE/Model?** IntelliJ IDEA ve Gemini (Agentic Coding yaklaşımıyla).
 -   **Analiz Yöntemi?** Hash değerlerindeki ardışık sıfırların sayısına dayanan olasılıksal analiz ve harmonik ortalama.
